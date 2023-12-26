@@ -1,0 +1,14 @@
+var fistName="Pratiksha";
+var lastName="Bhuse";
+var age="21";
+var address="sangewadi";
+var pinCode="413317";
+var gender="Female";
+var isMarried="No";
+console.log("First Name :",fistName);
+console.log("Last Name:",lastName);
+console.log("Age:",age);
+console.log("Address :",address);
+console.log("pin code :",pinCode);
+console.log("Gender :",gender);
+console.log("marital Status:",isMarried);
