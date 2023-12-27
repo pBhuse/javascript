@@ -1,0 +1,31 @@
+console.log("Assignment No 2");
+
+var a=10;
+var b=20;
+var c=3.17;
+console.log("value1=",a,",","Data type=",typeof a);
+console.log("value2=",b,",","Data type=",typeof b);
+console.log("value3=",c,",","Data type=",typeof c);
+
+console.log(".................................");
+var s1="Sangola";
+var s2="sangewadi";
+var s3="solapur";
+console.log("value1=",s1,",","Data Type=",typeof s1);
+console.log("value2=",s2,",","Data Type=",typeof s2);
+console.log("value3=",s3,",","Data Type=",typeof s3);
+console.log("..................................");
+var isWorking=false;
+var isMarried=false;
+var isCodingInterested=true;
+console.log("value1=",isWorking,",",typeof isWorking);
+console.log("value2=",isMarried,",",typeof isMarried);
+console.log("value3=",isCodingInterested,",",typeof isCodingInterested);
+console.log("............................................");
+console.log("............................................");
+console.log("Meaning of null :");
+console.log("null means  when we declare the variable_value=null  it means  variable does not initialize any type of value ");
+console.log("..........................................");
+console.log(".........................................");
+console.log("Meaning of undefined");
+console.log("undefined means  when we declare the variable but don't store the any type of value after that we print the variable then it shows the value=undefined ");

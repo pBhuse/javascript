@@ -1,7 +1,7 @@
 console.log("hello js ,i am pratiksha");
 var num;
 console.log(num);
-num=10;
+num="10";
 console.log(num);
 
 console.log("pratiksha");
