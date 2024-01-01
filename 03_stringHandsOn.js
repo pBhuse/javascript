@@ -1,7 +1,7 @@
 function stringHandsOn()
 {
 var givenStringIS="   Hey you are doing good, keep it up    ";
-console.log(' ...step 1 ...Given string is: ${givenStringIs}');
+console.log(` ...step 1.. ${givenStringIS } `);
 
 console.log(`...step2...length of string is : ${givenStringIS.length}`);
 var len1=givenStringIS.length;
@@ -20,3 +20,4 @@ console.log(`...step 10 ... ${string1.startsWith("Hey")}`);
 
 }
 stringHandsOn();
+
