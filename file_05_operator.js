@@ -9,7 +9,7 @@ greaterNumber(800, 899);
 console.log("...................STEP 2....................");
  function isEvenOrOddNum(x)
  {
-    var r1= x%2==0?"True":"False";
+    var r1= x%2==0? true: false;
     console.log(` ${x}  is ${r1}`);
  }
  isEvenOrOddNum(29);
